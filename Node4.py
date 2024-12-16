@@ -3,7 +3,7 @@ from collections import deque
 class Node:
     def __init__(self, data):
         self.data = data
-        self.data = None
+        self.right = None
         self.left = None
         
 def leveOderTraversal(root):
