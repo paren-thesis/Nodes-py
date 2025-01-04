@@ -16,3 +16,9 @@ root.right = Node(3)
 root.left.left = Node(4)
 root.left.right = Node(5)
 inorderTraversal(root)
+
+#    1
+#   / \
+#  2   3
+#
+#
